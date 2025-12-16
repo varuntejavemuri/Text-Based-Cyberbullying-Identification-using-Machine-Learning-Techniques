@@ -1,0 +1,7 @@
+timestamp,original_text,predicted_label,correct_label,cleaned_text
+2025-10-19T09:49:49.958929,"who the hell are you?
+",0,1,hell
+2025-10-21T22:37:05.641339,That new student in class is so socially awkward. He is dwarf and heavy weighted. People only talk to him because they feel sorry for him.,0,1,new student class social awkward dwarf heavi weight peopl talk feel sorri
+2025-10-21T22:38:31.628667,That new student in class is so socially awkward. He is dwarf and heavy weighted. People only talk to him because they feel sorry for him.,0,1,new student class social awkward dwarf heavi weight peopl talk feel sorri
+2025-10-21T22:46:21.308630,That new student in class is so socially awkward. He is dwarf and heavy weighted. People only talk to him because they feel sorry for him.,0,1,new student class social awkward dwarf heavi weight peopl talk feel sorri
+2025-10-21T23:25:01.696845,"That new student in class is so socially awkward. He is dwarf and heavy weighted..."" as cyberbullying, the system will actually learn and correct itself!",0,1,new student class social awkward dwarf heavi weight cyberbulli system actual learn correct
